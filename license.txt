@@ -1,0 +1,278 @@
+﻿FontStruct Non-Commercial Software End User License Agreement 1.0
+
+This software end user license agreement (hereinafter “Agreement”) is made
+between you or, if you represent a legal entity, that legal entity (hereinafter
+“You”) and “Lina1209”, the copyright holder and designer (hereinafter
+“Font Designer”) of the font software named “Исландские
+руны” (hereinafter “Font Software”).
+
+1. BINDING AGREEMENT
+This Agreement is a binding agreement between You and the Font Designer and
+shall set forth the terms and conditions under which You can use the Font
+Software. For the purposes of this Agreement, Font Software shall mean the Font
+Software, and any parts or copies of it.
+
+2. GRANT OF NON-EXCLUSIVE AND LICENCE
+The Font Designer hereby grants You a non-exclusive, non-transferable licence to
+use the Font Software provided that You comply with all terms and conditions of
+this Agreement.
+
+2.1 PERSONAL USE
+You may use the Fonts Software only for Your own Personal Purposes and for Your
+Work. For the purposes of this Agreement, “Personal Purposes” shall mean any
+private use of the Font Software by you. “Work” shall mean any work or
+result created by You or on Your behalf with the Font Software. For the
+avoidance of doubt, the use for Personal Purposes does not allow any use of the
+Font Software and/or any Work for commercial purposes (see Section 2.2) and/or
+as a web-font (see Section 2.6).
+
+2.2 NO COMMERCIAL USE
+Neither the Font Software, nor any of its individual components or any Work, may
+be used by You for any form of profit-making or otherwise commercial projects,
+without express prior written permission from the Font Designer.
+
+2.3 NO SALE OR DISTRIBUTION
+You may not sell, rent, license, sublicense, distribute, redistribute, give-away
+or make available (in any other way) the Font Software alone or as part of any
+collection, product or service to any third party. 
+
+2.4 NO MODIFICATION
+You may not modify, adapt, rename, translate, reverse engineer, decompile,
+disassemble, alter, or attempt to discover the source code of the Font Software.
+
+2.5 EMBEDDING
+You may embed the Font Software in documents, applications or devices either as
+a rasterized representation of the Font Software (e.g., a GIF or JPEG) or as a
+subset of the Font Software as long as the document, application or device is
+distributed in a secure format that permits only the viewing and printing but
+not the editing of the text.
+
+2.6 NO USE AS A WEBFONT
+You may not make the Font Software accessible on a web server in order to enable
+a web browser to render the content of Websites using the respective Font
+Software.
+
+2.7 BACKUP
+You may make backup copies of the Font Software for archival purposes only,
+provided that You retain exclusive custody and control over such copies. Any
+backup copy of the Font Software must contain the same copyright, trademark, and
+other proprietary information as the original.
+
+2.8 PRINT SHOPS AND SERVICE BUREAUS
+You may provide a copy of the Font Software used in Your Work to a print shop,
+service bureau, etc. for printing or otherwise outputting Your Work. Afterwards,
+the print shop, service bureau, etc. must destroy and/or delete all copies of
+the Font Software.
+
+3. ATTRIBUTION
+If You make Your Work publicly accessible in any form, You must keep intact all
+copyright notices for the Font Software and display, reasonable to the medium or
+means You are utilizing for Your Work, an attribution notice (hereinafter “The
+Attribution Notice”) comprising of:
+
+the name of the Font Designer or pseudonym, if applicable (“Lina1209”);
+the title of the Font Software (“Исландские руны”); and
+to the extent reasonably practicable, the URI
+(https://fontstruct.com/fontstructions/show/2623560) from where the Font was
+originally downloaded.
+
+The Attribution Notice may be implemented in any reasonable manner. For the
+avoidance of doubt, You may only use the credit required by this Section for the
+purpose of attribution in the manner set out above and, by exercising Your
+rights under this License, You may not implicitly or explicitly assert or imply
+any connection with, sponsorship or endorsement by the Font Designer of You or
+Your Work.
+
+4. YOUR REPRESENTATIONS AND INDEMNIFICATIONS
+You represent, warrant, and covenant that You shall use the Font Software only
+in accordance with the terms of this Agreement and keep the Font Designer fully
+indemnified against all actions, claims, costs, proceedings and damages
+whatsoever incurred by any breach of any of the aforesaid representations,
+warranties of this Agreement.
+
+5. OWNERSHIP AND RIGHTS TO THE FONT SOFTWARE
+The Font Designer reserves all rights not expressly granted to You in this
+Agreement (hereinafter “Reserved Rights”). The Font Software is protected by
+copyright and other intellectual property laws and treaties. You acknowledge
+that the Font Designer shall be the sole owner of the Font Software, of the
+copyright and all Reserved Rights of whatever kind and nature in the Font
+Software.
+
+6. WARRANTY
+The Font Software is made available “as is” WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF
+COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT.THE FONT DESIGNER DOES NOT AND
+CANNOT GUARANTEE THE PERFORMANCE OR RESULTS YOU MAY OBTAIN BY USING THE FONT
+SOFTWARE.
+THE FONT DESIGNER SHALL IN NO EVENT BE LIABLE TO YOU FOR ANY CONSEQUENTIAL,
+INCIDENTAL OR SPECIAL DAMAGES, INCLUDING ANY LOST PROFITS OR LOST SAVINGS, OR
+FOR ANY CLAIM BY ANY THIRD PARTY, ARISING OUT OF THE USE OR INABILITY TO USE THE
+FONT SOFTWARE.
+
+7. TERMINATION / CONDITION PRECEDENT
+You may use the Font Software only as set forth in this Agreement. Any use of
+the Font Software that is not expressly allowed in this Agreement will
+automatically terminate Your rights to use the Font Software under this
+Agreement.  If Your right to use the Font Software is terminated You shall
+immediately stop using the Font Software, call back or change any Work that is
+used in the public, and delete/destroy any copies of the Font Software. The
+termination of the Agreement shall not affect the right of the Font Designer to
+claim damages or other rights.
+
+8. WAIVER
+A waiver by either Party of any term or condition of this Agreement shall not be
+deemed or construed to be a waiver of such term or condition for the future or
+any subsequent breach thereof.  All remedies, rights, undertakings, obligations
+and agreements contained in this Agreement shall be cumulative and none of them
+shall be in limitation of any other remedy, right, undertaking, obligation or
+agreement of either Party.
+
+9. GOVERNING LAW, PLACE OF JURISDICTION
+This Agreement shall be construed and shall take effect in accordance with the
+laws of the Federal Republic of Germany excluding the United Nations Convention
+on Contracts for the International Sales of Goods (CISG).  To the extent
+permitted by law, the Courts of Berlin, Germany shall have exclusive
+jurisdiction to resolve any dispute which may arise.
+
+10. ENTIRE AGREEMENT
+This Agreement contains the entire agreement between the Parties. No variation
+of any of the terms or conditions of this Agreement may be made unless such
+variation is agreed in writing and signed by You and the Font Designer.
+
+11. SEVERABILITY
+If any provision of this Agreement is adjudged by a court to be invalid or
+unenforceable, such provision shall in no way affect any other provision of this
+Agreement, the application of such provision in any other circumstance or the
+validity or enforceability of this Agreement.  The Parties will negotiate in
+good faith about a provision that will replace the invalid or unenforceable
+provision.
+
+FontStruct Notice: FontStruct no Party to this Agreement
+
+Please note that FontStruct (www.fontstruct.com) is not a party to this
+Agreement between You and the Font Designer.
+
+FontStruct makes no warranty of any kind in connection with the Font Software,
+its use or the results that You may obtain by using the Font Software.
+
+FontStruct shall in no event be liable to You or any third party for any damages
+whatsoever arising out of or relating to this Agreement or the use of the Font
+Software, including but not limited to incidental, special damages, any lost
+profits or lost savings or any claim made by a third party.
+
+Некоммерческое лицензионное соглашение с конечным пользователем программного обеспечения FontStruct 1.0
+Настоящее лицензионное соглашение с конечным пользователем программного обеспечения (далее «Соглашение») заключено между вами или, если вы представляете юридическое лицо, этим юридическим лицом (далее «Вы») и «Lina1209», правообладателем и разработчиком (далее
+«Разработчик шрифта») программного обеспечения для создания шрифтов под названием «Исландские
+руны» (далее «Программное обеспечение для создания шрифтов»).
+
+1. ОБЯЗАТЕЛЬСТВО ПО ИСПОЛНЕНИЮ СОГЛАШЕНИЯ
+Настоящее Соглашение является обязательным для исполнения соглашением между Вами и разработчиком шрифта и устанавливает условия, на которых Вы можете использовать программное обеспечение для работы со шрифтами Software. Для целей настоящего Соглашения программное обеспечение для работы со шрифтами означает программное обеспечение для работы со шрифтами Software, а также любые его части или копии.
+
+2. ПРЕДОСТАВЛЕНИЕ НЕИСКЛЮЧИТЕЛЬНОЙ ЛИЦЕНЗИИ
+Разработчик шрифта настоящим предоставляет Вам неисключительную, непередаваемую лицензию на использование программного обеспечения для работы со шрифтами при условии, что Вы соблюдаете все положения и условия настоящего Соглашения.
+
+2.1 ЛИЧНОЕ ИСПОЛЬЗОВАНИЕ
+Вы можете использовать программное обеспечение Fonts только в личных целях и для работы.
+Для целей настоящего Соглашения под «личными целями» понимается любое частное использование вами программного обеспечения Fonts.
+Под «работой» понимается любая работа или результат, созданные вами или от вашего имени с помощью программного обеспечения Fonts.
+Во избежание недоразумений использование в личных целях не допускает какого-либо использования программного обеспечения Fonts в коммерческих целях.
+Программное обеспечение для создания шрифтов и/или любая работа в коммерческих целях (см. раздел 2.2) и/или
+в качестве веб-шрифта (см. раздел 2.6).
+
+2.2. НЕКОММЕРЧЕСКОЕ ИСПОЛЬЗОВАНИЕ
+Ни программное обеспечение для создания шрифтов, ни его отдельные компоненты, ни любая работа не могут использоваться вами для получения прибыли или в иных коммерческих целях без предварительного письменного разрешения дизайнера шрифтов.
+
+2.3. НЕ ПРОДАВАТЬ И НЕ РАСПРОСТРАНЯТЬ
+Вы не имеете права продавать, сдавать в аренду, лицензировать, сублицензировать, распространять, повторно распространять, раздавать или предоставлять (любым другим способом) программное обеспечение Font Software отдельно или в составе любой коллекции, продукта или услуги какой-либо третьей стороне. 
+
+2.4. НИКАКИХ ИЗМЕНЕНИЙ
+Вы не имеете права изменять, адаптировать, переименовывать, переводить, реконструировать, декомпилировать, дизассемблировать, модифицировать или пытаться раскрыть исходный код программного обеспечения Font Software.
+
+2.5. ВСТРАИВАНИЕ
+Вы можете встраивать программное обеспечение Font Software в документы, приложения или устройства либо в виде растрового изображения программного обеспечения Font Software (например, в формате GIF или JPEG), либо в виде подмножества программного обеспечения Font Software, при условии, что документ, приложение или устройство распространяются в защищённом формате, который позволяет только просматривать и распечатывать текст, но не редактировать его.
+
+2.6 НЕ ИСПОЛЬЗОВАТЬ В КАЧЕСТВЕ ВЕБ-ШРИФТА
+Вы не можете сделать программное обеспечение Font доступным на веб-сервере, чтобы веб-браузер мог отображать содержимое веб-сайтов с использованием соответствующего программного обеспечения Font.
+Программное обеспечение Font.
+
+2.7 РЕЗЕРВНОЕ КОПИРОВАНИЕ
+Вы можете создавать резервные копии программного обеспечения Font только в архивных целях при условии, что вы сохраняете исключительные права владения и контроля над такими копиями. Любая резервная копия программного обеспечения Font должна содержать те же авторские права, товарный знак и другую конфиденциальную информацию, что и оригинал.
+
+2.8 ПЕЧАТНЫЕ ИЗДАНИЯ И СЕРВИСНЫЕ БЮРО
+Вы можете предоставить копию программного обеспечения Font Software, используемого в вашей работе, типографии, бюро обслуживания и т. д. для печати или иного вывода вашей работы. После этого типография, бюро обслуживания и т. д. должны уничтожить и/или удалить все копии программного обеспечения Font Software.
+
+3. АТРИБУЦИЯ
+Если вы делаете свою работу общедоступной в какой-либо форме, вы должны сохранить все уведомления об авторских правах на программное обеспечение для создания шрифтов и отображать их в соответствии с носителем или средствами, которые вы используете для своей работы. Уведомление об авторских правах (далее — «Уведомление об авторских правах ») должно содержать: 
+
+ имя разработчика шрифта или псевдоним, если применимо («Lina1209»);
+название программного обеспечения Font («Исландские руны»); и
+насколько это практически осуществимо, URI
+(https://fontstruct.com/fontstructions/show/2623560), с которого был изначально загружен шрифт. 
+
+
+Уведомление об авторских правах может быть реализовано любым разумным способом. Во избежание недоразумений
+Вы можете использовать информацию, требуемую данным разделом, только в целях указания авторства, как описано выше, и, реализуя свои права в соответствии с настоящей Лицензией, Вы не можете прямо или косвенно утверждать или подразумевать какую-либо связь с дизайнером шрифта, его спонсорство или одобрение Вас или Вашей работы.
+
+4. ВАШИ ЗАЯВЛЕНИЯ И ВОЗМЕЩЕНИЕ УБЫТКОВ
+Вы заявляете, гарантируете и обязуетесь использовать программное обеспечение Font только в соответствии с условиями настоящего Соглашения и полностью ограждать разработчика Font от любых действий, претензий, расходов, судебных разбирательств и убытков, возникших в результате нарушения любого из вышеупомянутых заявлений, гарантий настоящего Соглашения.
+
+5. ПРАВО СОБСТВЕННОСТИ И ПРАВА НА ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ FONT
+Разработчик Font оставляет за собой все права, прямо не предоставленные Вам в настоящем
+Соглашении (далее — «Зарезервированные права»). Программное обеспечение для шрифтов защищено
+авторским правом и другими законами и договорами об интеллектуальной собственности. Вы признаете
+, что Разработчик шрифтов является единственным владельцем программного обеспечения для шрифтов,
+авторских прав и всех зарезервированных прав любого рода на Шрифт
+Программное обеспечение.
+
+6. ГАРАНТИЯ
+Программное обеспечение для шрифтов предоставляется “как есть” БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ,
+ЯВНЫЕ ИЛИ ПОДРАЗУМЕВАЕМЫЕ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ, ЛЮБЫЕ ГАРАНТИИ
+ТОВАРНОГО ВИДА, ПРИГОДНОСТИ ДЛЯ ОПРЕДЕЛЕННОЙ ЦЕЛИ И НЕНАРУШЕНИЯ
+АВТОРСКИХ ПРАВ, ПАТЕНТОВ, ТОВАРНЫХ ЗНАКОВ ИЛИ ДРУГИХ ПРАВ.РАЗРАБОТЧИК ШРИФТОВ НЕ ГАРАНТИРУЕТ И
+НЕ МОЖЕТ ГАРАНТИРОВАТЬ ПРОИЗВОДИТЕЛЬНОСТЬ ИЛИ РЕЗУЛЬТАТЫ, КОТОРЫЕ ВЫ МОЖЕТЕ ПОЛУЧИТЬ ПРИ ИСПОЛЬЗОВАНИИ ШРИФТА
+программное обеспечение.
+ДИЗАЙНЕР ШРИФТОВ НИ В КОЕМ СЛУЧАЕ НЕ НЕСЕТ ОТВЕТСТВЕННОСТИ ПЕРЕД ВАМИ ЗА КАКИЕ-ЛИБО КОСВЕННЫЕ,
+СЛУЧАЙНЫЕ ИЛИ ОСОБЫЕ УБЫТКИ, ВКЛЮЧАЯ ЛЮБУЮ УПУЩЕННУЮ ВЫГОДУ ИЛИ ПОТЕРЯННЫЕ СБЕРЕЖЕНИЯ, ИЛИ
+В ОТНОШЕНИИ ЛЮБЫХ ПРЕТЕНЗИЙ ЛЮБОЙ ТРЕТЬЕЙ СТОРОНЫ, ВОЗНИКШИХ В СВЯЗИ С ИСПОЛЬЗОВАНИЕМ ИЛИ НЕВОЗМОЖНОСТЬЮ ИСПОЛЬЗОВАНИЯ
+ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ ШРИФТА.
+
+7. ПРЕКРАЩЕНИЕ ДЕЙСТВИЯ / УСЛОВИЕ
+Вы можете использовать программное обеспечение шрифта только в соответствии с настоящим Соглашением. Любое использование программного обеспечения шрифта, прямо не разрешенное настоящим Соглашением, приведет к автоматическому прекращению ваших прав на использование программного обеспечения шрифта в соответствии с настоящим
+Соглашением.  Если ваше право на использование программного обеспечения Font будет прекращено, вы должны немедленно прекратить использование программного обеспечения Font, отозвать или изменить любую работу, которая используется публично, а также удалить/уничтожить все копии программного обеспечения Font.
+Прекращение действия Соглашения не влияет на право разработчика шрифта требовать возмещения ущерба или на другие права.
+
+8. ОТКАЗ ОТ ПРЕТЕНЗИЙ
+Отказ любой из Сторон от какого-либо положения или условия настоящего Соглашения не
+будет считаться отказом от такого положения или условия в будущем или от
+любого последующего нарушения такого положения или условия. Все средства правовой защиты, права, обязательства и соглашения, содержащиеся в настоящем
+Соглашении, являются взаимодополняющими, и ни одно из них не ограничивает
+какое-либо другое средство правовой защиты, право, обязательство или
+соглашение любой из Сторон.
+
+9. ПРИМЕНИМОЕ ЗАКОНОДАТЕЛЬСТВО, МЕСТО ЮРИСДИКЦИИ
+Настоящее Соглашение должно толковаться и вступает в силу в соответствии с
+законодательством Федеративной Республики Германия, за исключением
+Конвенции Организации Объединенных Наций о договорах международной купли-продажи товаров (КМКПТ). В пределах, разрешенных законом, исключительной
+юрисдикцией для разрешения любых споров, которые могут возникнуть, обладают суды Берлина, Германия.
+
+10. СОГЛАШЕНИЕ В ЦЕЛОМ
+Настоящее Соглашение содержит в себе все договоренности между Сторонами. Никакие изменения
+в каких-либо положениях или условиях настоящего Соглашения не допускаются,
+если только такие изменения не будут согласованы в письменной форме и подписаны вами и разработчиком шрифта.
+
+11. НЕЗАВИСИМОСТЬ
+Если какое-либо положение настоящего Соглашения будет признано судом недействительным или не имеющим юридической силы, такое положение никоим образом не повлияет на любое другое положение настоящего
+Соглашения, на применение такого положения в любых других обстоятельствах, а также на действительность или юридическую силу настоящего Соглашения.  Стороны будут добросовестно вести переговоры о
+положении, которое заменит недействительное или неисполнимое положение.
+
+
+ Уведомление FontStruct: FontStruct не является стороной настоящего Соглашения
+Обратите внимание, что FontStruct (www.fontstruct.com) не является стороной настоящего
+Соглашения между вами и разработчиком шрифта.
+
+FontStruct не предоставляет никаких гарантий в отношении программного обеспечения для создания шрифтов, его использования или результатов, которые вы можете получить с помощью программного обеспечения для создания шрифтов.
+
+Компания FontStruct ни при каких обстоятельствах не несет ответственности перед вами или любой третьей стороной за любой ущерб
+возникший в результате настоящего Соглашения или использования программного обеспечения Font
+включая, помимо прочего, случайный, особый ущерб, упущенную выгоду или сбережения, а также любые претензии третьих лиц.
